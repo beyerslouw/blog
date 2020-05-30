@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Beyers Louw</title>
+    <link>https://beyerslouw.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Beyers Louw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://beyerslouw.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Causal Inference</title>
+      <link>https://beyerslouw.github.io/blog/tags/causal-inference/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyerslouw.github.io/blog/tags/causal-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Econometrics</title>
+      <link>https://beyerslouw.github.io/blog/tags/econometrics/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyerslouw.github.io/blog/tags/econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Regression</title>
+      <link>https://beyerslouw.github.io/blog/tags/multivariate-regression/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyerslouw.github.io/blog/tags/multivariate-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Methodology</title>
+      <link>https://beyerslouw.github.io/blog/tags/research-methodology/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyerslouw.github.io/blog/tags/research-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://beyerslouw.github.io/blog/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyerslouw.github.io/blog/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

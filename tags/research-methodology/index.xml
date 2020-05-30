@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Methodology on Beyers Louw</title>
+    <link>https://beyerslouw.github.io/blog/tags/research-methodology/</link>
+    <description>Recent content in Research Methodology on Beyers Louw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://beyerslouw.github.io/blog/tags/research-methodology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Working Paper</title>
+      <link>https://beyerslouw.github.io/blog/post/first-working-paper/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyerslouw.github.io/blog/post/first-working-paper/</guid>
+      <description>My first working paper is published on arXiv. A research note in collaboration with Paul Hünermund.</description>
+    </item>
+    
+  </channel>
+</rss>
